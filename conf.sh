@@ -29,6 +29,7 @@ banner
     if [[ $rooj == y ||  $rooj == Y  ]]; then
         sleep 2
         chmod 777 conf.sh
+        chmod 777 mssploit
         cp -r mssploit /data/data/com.termux/files/usr/bin && cd && rm -rf mssploit && mssploit
 
     elif [[ $rooj == N ||  $rooj == n  ]]; then
