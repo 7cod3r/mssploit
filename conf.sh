@@ -30,7 +30,7 @@ banner
         sleep 2
         chmod 777 conf.sh
         chmod 777 mssploit
-        cp -r mssploit /data/data/com.termux/files/usr/bin && cd && rm -rf mssploit && cd && mssploit
+        cp -r mssploit /data/data/com.termux/files/usr/bin && cd && rm -rf mssploit && cd $HOME && mssploit
 
     elif [[ $rooj == N ||  $rooj == n  ]]; then
         clear
@@ -44,7 +44,9 @@ banner
         echo ""
         sleep 2
         pkg install git curl wget nmap -y && wget https://github.com/Hax4us/TermuxBlack/raw/master/install.sh && chmod +x install.sh && ./install.sh -i && pkg install ruby2 && wget https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh && chmod +x metasploit.sh && ./metasploit.sh
-        cp -r mssploit /data/data/com.termux/files/usr/bin && chmod 777 mssploit && cd && rm -rf mssploit && mssploit
+        chmod 777 conf.sh
+        chmod 777 mssploit
+        cp -r mssploit /data/data/com.termux/files/usr/bin && cd && rm -rf mssploit && cd $HOME && mssploit
 
     else
         echo -e " \e[31m Hatalı seçim! "
