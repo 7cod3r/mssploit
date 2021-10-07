@@ -3,7 +3,7 @@ This is an exploit analysis tool.
 
 ## Gereksinimler
 
-``bash conf.sh``
+``./conf.sh``
 
 ## Başlangıç
 
