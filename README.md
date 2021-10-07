@@ -10,5 +10,5 @@ This is an exploit analysis tool.
 > Terminalde ``mssploit`` yazılarak çalıştırılabilir.
 ------------------------------
 ### For Fast Communication
-<noscript><a href="https://Instagram.com/he4lan"><img alt="Instagram: @he4lan" title="He4LAN" width="200px" src="https://svgshare.com/i/ao9.svg"></a></noscript>
+<noscript><a href="https://Instagram.com/ez.rooj"><img alt="Instagram: @ez.rooj" title="IG: ez.rooj" width="200px" src="https://svgshare.com/i/ao9.svg"></a></noscript>
 
