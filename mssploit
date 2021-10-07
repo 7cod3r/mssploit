@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: He4LAN
+# Author: the-rooj
 
 clear
 cd $HOME
@@ -16,10 +16,10 @@ echo -e "\e[32m
                                                                                                   
          
          " 
-	echo -e '  	  \033[33mAuthor:    \e[32mHe4LAN\e[0m\e[31m V1.0\e[0m'
+	echo -e '  	  \033[33mAuthor:    \e[32mRooj\e[0m\e[31m V1.0\e[0m'
 	echo ""
-	echo -e '  	  \033[33mINSTAGRAM: \e[32;40;4minstagram.com/he4lan\e[0m'
-	echo -e '	  \033[33mGITHUB:    \e[32;40;4mgithub.com/He4LAN\e[0m
+	echo -e '  	  \033[33mINSTAGRAM: \e[32;40;4minstagram.com/ez.rooj\e[0m'
+	echo -e '	  \033[33mGITHUB:    \e[32;40;4mgithub.com/the-rooj\e[0m
 
 
 
