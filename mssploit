@@ -506,5 +506,5 @@ elif [[ $yapi == 04 ||  $yapi == 4  ]]; then
 		echo " "
 		echo -e "\e[37m  Hatalı seçim yaptınız!"
 		sleep 2
-		./mssploit
+		mssploit
 	fi
