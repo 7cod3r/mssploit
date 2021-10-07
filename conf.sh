@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: He4LAN
+# Author: Rooj
 
 clear
 termux-setup-storage > /dev/null 2>&1 &
