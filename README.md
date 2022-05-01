@@ -2,8 +2,7 @@
 This is an exploit analysis tool.
 
 ## Gereksinimler
-
-``./conf.sh``
+``chmod 777 conf.sh && ./conf.sh``
 
 ## Başlangıç
 
